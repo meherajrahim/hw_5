@@ -1,0 +1,23 @@
+.header{
+	background-color: green;
+	min-height: 80px;
+}
+.wrapper{
+     overflow: hidden; 
+}
+.blog{
+	background-color: blue;
+	min-height: 130px;
+	width: 70%;
+	float: left;
+}
+.contact{
+	background-color:yellow;
+	min-height: 130px;
+	width:30%;
+	float: right; 
+}
+.footer{
+	background-color: black;
+	min-height: 80px;
+}
